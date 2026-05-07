@@ -1,0 +1,6 @@
+{
+  "name": "Raster2CNC",
+  "description": "Convert raster images into vector formats and CNC-ready G-Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
